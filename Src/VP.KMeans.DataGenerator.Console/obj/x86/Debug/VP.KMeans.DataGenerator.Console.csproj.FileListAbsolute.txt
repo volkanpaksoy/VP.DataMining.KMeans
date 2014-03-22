@@ -1,0 +1,7 @@
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Console\bin\Debug\VP.KMeans.DataGenerator.Console.exe
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Console\bin\Debug\VP.KMeans.DataGenerator.Console.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Console\bin\Debug\VP.KMeans.DataGenerator.Core.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Console\bin\Debug\VP.KMeans.DataGenerator.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Console\obj\x86\Debug\VP.KMeans.DataGenerator.Console.csprojResolveAssemblyReference.cache
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Console\obj\x86\Debug\VP.KMeans.DataGenerator.Console.exe
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Console\obj\x86\Debug\VP.KMeans.DataGenerator.Console.pdb

@@ -1,0 +1,114 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{E12828BC-DC4C-4652-B49E-748C9EA28F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPI.Plot3D", "Tools\CPI.Plot3D\CPI.Plot3D\CPI.Plot3D.csproj", "{F41E9717-E4AC-482B-B381-DEAD5A092FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VP.KMeans.Core", "Src\VP.KMeans.Core\VP.KMeans.Core.csproj", "{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VP.KMeansClient.Console", "Src\VP.KMeans.ConsoleClient\VP.KMeansClient.Console.csproj", "{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VP.KMeansClient.GUI", "Src\VP.KMeans.WinFormsClient\VP.KMeansClient.GUI.csproj", "{B72B971D-7CA7-48BD-8235-057F08DF3EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VP.KMeans.DataGenerator.Core", "Src\VP.KMeans.DataGenerator.Core\VP.KMeans.DataGenerator.Core.csproj", "{57658E31-75FD-4603-97A6-A2F9834329BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VP.KMeans.DataGenerator.Console", "Src\VP.KMeans.DataGenerator.Console\VP.KMeans.DataGenerator.Console.csproj", "{A983073E-BBF1-4094-9832-377CDDF3F4F4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.devcenter.info/tfs/demoprojects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Src\\VP.KMeans.ConsoleClient\\VP.KMeansClient.Console.csproj
+		SccProjectName1 = Src/VP.KMeans.ConsoleClient
+		SccLocalPath1 = Src\\VP.KMeans.ConsoleClient
+		SccProjectUniqueName2 = Src\\VP.KMeans.Core\\VP.KMeans.Core.csproj
+		SccProjectName2 = Src/VP.KMeans.Core
+		SccLocalPath2 = Src\\VP.KMeans.Core
+		SccProjectUniqueName3 = Src\\VP.KMeans.WinFormsClient\\VP.KMeansClient.GUI.csproj
+		SccProjectName3 = Src/VP.KMeans.WinFormsClient
+		SccLocalPath3 = Src\\VP.KMeans.WinFormsClient
+		SccProjectUniqueName4 = Tools\\CPI.Plot3D\\CPI.Plot3D\\CPI.Plot3D.csproj
+		SccProjectTopLevelParentUniqueName4 = KMeansImplementation.sln
+		SccProjectName4 = Tools/CPI.Plot3D/CPI.Plot3D
+		SccLocalPath4 = Tools\\CPI.Plot3D\\CPI.Plot3D
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8}.Release|x86.ActiveCfg = Release|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0A1A42E1-E7CA-42DD-9EB5-E312F7DAC665}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BF07E927-929A-41B0-B55F-3D5CFA9F68E8}.Release|x86.ActiveCfg = Release|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B72B971D-7CA7-48BD-8235-057F08DF3EDD}.Release|x86.ActiveCfg = Release|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{57658E31-75FD-4603-97A6-A2F9834329BE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Debug|x86.ActiveCfg = Debug|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Debug|x86.Build.0 = Debug|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Release|Any CPU.ActiveCfg = Release|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Release|x86.ActiveCfg = Release|x86
+		{A983073E-BBF1-4094-9832-377CDDF3F4F4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F41E9717-E4AC-482B-B381-DEAD5A092FA8} = {E12828BC-DC4C-4652-B49E-748C9EA28F9A}
+	EndGlobalSection
+EndGlobal

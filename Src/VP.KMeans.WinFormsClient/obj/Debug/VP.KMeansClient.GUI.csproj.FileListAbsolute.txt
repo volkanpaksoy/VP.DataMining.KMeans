@@ -1,0 +1,69 @@
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\VP.KMeansClient.GUI.Form1.resources
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.Properties.Resources.resources
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\VP.KMeansClient.GUI.csproj.GenerateResource.Cache
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.exe
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.exe.config
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.exe
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.dll
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.xml
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.Form1.resources
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.Properties.Resources.resources
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.csproj.GenerateResource.Cache
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.xml
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe.config
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe.config
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.exe
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.pdb
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.pdb
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.dll
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.dll
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.pdb
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.xml
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.pdb
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\ResolveAssemblyReference.cache
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.Form1.resources
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.Properties.Resources.resources
+H:\KMeansImplementation\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.csproj.GenerateResource.Cache
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\ResGen.read.1.tlog
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\ResGen.write.1.tlog
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.exe
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe.config
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.dll
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.xml
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.Form1.resources
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe.config
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.exe
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\GraphicsPlotter.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.exe
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\GraphicsPlotter.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\CPI.Plot3D.xml
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\bin\Debug\VP.KMeans.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.csprojResolveAssemblyReference.cache
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.Form1.resources
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.WinFormsClient\obj\Debug\VP.KMeansClient.GUI.csproj.GenerateResource.Cache

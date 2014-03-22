@@ -1,0 +1,11 @@
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\bin\Debug\Examples.exe
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\bin\Debug\Examples.pdb
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\bin\Debug\CPI.Plot3D.dll
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\bin\Debug\CPI.Plot3D.pdb
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\bin\Debug\CPI.Plot3D.xml
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\obj\Debug\Examples.Form1.resources
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\obj\Debug\Examples.Properties.Resources.resources
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\obj\Debug\Examples.csproj.GenerateResource.Cache
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\obj\Debug\Examples.exe
+J:\Projects\Assignment3\Tools\CPI.Plot3D\Examples\obj\Debug\Examples.pdb

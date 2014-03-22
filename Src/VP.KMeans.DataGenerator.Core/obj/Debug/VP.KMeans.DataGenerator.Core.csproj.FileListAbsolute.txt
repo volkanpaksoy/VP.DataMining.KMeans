@@ -1,0 +1,17 @@
+D:\Projects\Data Mining\Assignment3\Tool\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.dll
+D:\Projects\Data Mining\Assignment3\Tool\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.pdb
+D:\Projects\Data Mining\Assignment3\Tool\VP.KMeans.DataGenerator.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\Tool\VP.KMeans.DataGenerator.Core\obj\Debug\VP.KMeans.DataGenerator.Core.dll
+D:\Projects\Data Mining\Assignment3\Tool\VP.KMeans.DataGenerator.Core\obj\Debug\VP.KMeans.DataGenerator.Core.pdb
+D:\Projects\Data Mining\Assignment3\Tools\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.dll
+D:\Projects\Data Mining\Assignment3\Tools\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.pdb
+D:\Projects\Data Mining\Assignment3\Tools\VP.KMeans.DataGenerator.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\Tools\VP.KMeans.DataGenerator.Core\obj\Debug\VP.KMeans.DataGenerator.Core.dll
+D:\Projects\Data Mining\Assignment3\Tools\VP.KMeans.DataGenerator.Core\obj\Debug\VP.KMeans.DataGenerator.Core.pdb
+D:\Projects\Data Mining\Assignment3\Tools\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.dll.config
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.dll.config
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Core\bin\Debug\VP.KMeans.DataGenerator.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Core\obj\Debug\VP.KMeans.DataGenerator.Core.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Core\obj\Debug\VP.KMeans.DataGenerator.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.DataGenerator.Core\obj\Debug\VP.KMeans.DataGenerator.Core.csprojResolveAssemblyReference.cache

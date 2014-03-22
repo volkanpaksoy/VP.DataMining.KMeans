@@ -1,0 +1,40 @@
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.exe.config
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\VP.KMeansClient.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\VP.KMeansClient.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe.config
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.pdb
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe.config
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.pdb
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.dll
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.pdb
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.exe
+H:\KMeansImplementation\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe.config
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.exe
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe.config
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.exe
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeansClient.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\bin\Debug\VP.KMeans.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.Console.csprojResolveAssemblyReference.cache
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.exe
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.ConsoleClient\obj\Debug\VP.KMeansClient.pdb

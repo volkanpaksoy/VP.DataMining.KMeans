@@ -1,0 +1,27 @@
+J:\Projects\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.exe
+J:\Projects\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.pdb
+J:\Projects\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.dll
+J:\Projects\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.pdb
+J:\Projects\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.xml
+J:\Projects\Assignment3\Tools\GraphicsPlotter\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.Properties.Resources.resources
+J:\Projects\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.csproj.GenerateResource.Cache
+J:\Projects\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.exe
+J:\Projects\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.pdb
+J:\Projects\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.Form1.resources
+J:\Projects\Assignment3\Tools\GraphicsPlotter\bin\Debug\VP.KMeans.Core.dll
+J:\Projects\Assignment3\Tools\GraphicsPlotter\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.exe
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.exe
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.dll
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.pdb
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\CPI.Plot3D.xml
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.Form1.resources
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.Properties.Resources.resources
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\obj\Debug\GraphicsPlotter.csproj.GenerateResource.Cache
+D:\Projects\Data Mining\Assignment3\Tools\GraphicsPlotter\bin\Debug\GraphicsPlotter.exe.config

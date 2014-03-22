@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CPI.Plot3D">
+</Property><Property Name="Solution File" Value="J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D.sln">
+</Property><Property Name="Date" Value="07 Ocak 2010 Perşembe">
+</Property><Property Name="Time" Value="15:40">
+</Property></Properties><Event ErrorLevel="0" Project="CPI.Plot3D" Source="CPI.Plot3D\CPI.Plot3D.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CPI.Plot3D" Source="CPI.Plot3D\CPI.Plot3D.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Examples" Source="Examples\Examples.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Examples" Source="Examples\Examples.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CPI.Plot3D.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CPI.Plot3D.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CPI.Plot3D" Source="CPI.Plot3D\CPI.Plot3D.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Examples" Source="Examples\Examples.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

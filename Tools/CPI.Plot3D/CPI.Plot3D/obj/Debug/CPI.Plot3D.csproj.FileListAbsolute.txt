@@ -1,0 +1,35 @@
+J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll
+J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.pdb
+J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.CodeAnalysisLog.xml
+J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.lastcodeanalysissucceeded
+J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.dll
+J:\Projects\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.pdb
+D:\Projects\Data Mining\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll
+D:\Projects\Data Mining\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.pdb
+D:\Projects\Data Mining\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.CodeAnalysisLog.xml
+D:\Projects\Data Mining\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.lastcodeanalysissucceeded
+D:\Projects\Data Mining\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.dll
+D:\Projects\Data Mining\Assignment3\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.pdb
+H:\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.XML
+H:\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll
+H:\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.pdb
+H:\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.CodeAnalysisLog.xml
+H:\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.lastcodeanalysissucceeded
+H:\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\ResolveAssemblyReference.cache
+H:\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.dll
+H:\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.CodeAnalysisLog.xml
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.lastcodeanalysissucceeded
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.dll
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.CodeAnalysisLog.xml
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\bin\Debug\CPI.Plot3D.dll.lastcodeanalysissucceeded
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Tools\CPI.Plot3D\CPI.Plot3D\obj\Debug\CPI.Plot3D.pdb

@@ -1,0 +1,33 @@
+J:\Projects\Assignment3\KMeansImplementation\KMeans.Core\bin\Debug\VP.KMeans.Core.dll
+J:\Projects\Assignment3\KMeansImplementation\KMeans.Core\bin\Debug\VP.KMeans.Core.pdb
+J:\Projects\Assignment3\KMeansImplementation\KMeans.Core\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\Assignment3\KMeansImplementation\KMeans.Core\obj\Debug\VP.KMeans.Core.dll
+J:\Projects\Assignment3\KMeansImplementation\KMeans.Core\obj\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeans.Core\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeans.Core\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeans.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeans.Core\obj\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeans.Core\obj\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeans.Core\bin\Debug\VP.KMeans.Core.dll.config
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.dll.config
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.pdb
+H:\KMeansImplementation\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.dll.config
+H:\KMeansImplementation\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.dll
+H:\KMeansImplementation\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.pdb
+H:\KMeansImplementation\VP.KMeans.Core\obj\Debug\ResolveAssemblyReference.cache
+H:\KMeansImplementation\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.dll
+H:\KMeansImplementation\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.dll
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.pdb
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\bin\Debug\VP.KMeans.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.dll
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.pdb
+E:\Projects\Academic\BahcesehirMaster\Data Mining\K-Means\Src\VP.KMeans.Core\obj\Debug\VP.KMeans.Core.csprojResolveAssemblyReference.cache

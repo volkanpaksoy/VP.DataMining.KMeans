@@ -1,0 +1,16 @@
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.exe.config
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.exe
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.pdb
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeans.Core.dll
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeans.Core.pdb
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\VP.KMeansClient.exe
+J:\Projects\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\VP.KMeansClient.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.exe.config
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeansClient.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeans.Core.dll
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\bin\Debug\VP.KMeans.Core.pdb
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\VP.KMeansClient.exe
+D:\Projects\Data Mining\Assignment3\KMeansImplementation\KMeansImplementation\obj\Debug\VP.KMeansClient.pdb
